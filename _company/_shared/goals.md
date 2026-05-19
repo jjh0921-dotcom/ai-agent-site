@@ -4,7 +4,7 @@
 - [ ] 월 1000usd 이상의 수익화
 
 ## 1개월 내 단기 목표
-- 미정
+- Launch the MVP website, set up Stripe payment, and secure the first 100 paid users.
 
 ## 지금 가장 필요한 것
 - 웹사이트 제작 및 퍼블리싱을 통한 수익화
