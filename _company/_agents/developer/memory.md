@@ -6,3 +6,4 @@ _코다리 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 �
 
 - [2026-05-19] Writer가 설계한 프롬프트 엔지니어링 로직을 기반으로 OpenAI API 연동 및 프롬프트 구조 설계안을 제시하라. → 산출물 sessions/2026-05-19T17-38/developer.md
 - [2026-05-19] 코다리 > John 현빈 > Timmy 영숙 > Amy Writer > JS Researcher > Blue → 산출물 sessions/2026-05-19T18-12/developer.md
+- [2026-05-19] 사용자가 제시한 10단계의 Git 동기화 및 정리 절차(git status 확인, .gitignore 수정, 파일 제외, git rm --cached 실행, git pull, 충돌 해결, 커밋, git push)를 순서대로 실행하고, 최종적으로 요청된 형식의 보고서를 생성하라. 특히, .env, node_modules, build 등 민감/자동 생성 파일을 제외하는 로직을 정확히 구현하고, 최종 보고서 형식에 맞춰 결과를 정리하라. → 산출물 sessions/2026-05-19T18-20/developer.md
